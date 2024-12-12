@@ -1,5 +1,10 @@
 # Simple MVVM Android Architecture With Koin DI
 
+## Goals and requirements
+
+The goals for the app architecture are:
+*   Follow the [official architecture guidance](https://developer.android.com/jetpack/guide) as closely as possible.
+
 ## Features
 
 ![Sample One](assets/ss1.png) ![Sample Two](assets/ss2.png)
