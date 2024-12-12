@@ -5,7 +5,8 @@
 Depedencies that are used:
 
 - insert-koin.io - Dependency Injection!
-
+  ![Sampe One](assets/ss1.png)
+  ![Sampe Two](assets/ss2.png)
 ### Installation
 
 1. Clone the repo
