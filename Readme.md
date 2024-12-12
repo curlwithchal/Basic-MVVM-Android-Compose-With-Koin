@@ -1,11 +1,15 @@
 # Simple MVVM Android Architecture With Koin DI
+
 ## Features
 
+![Sample One](assets/ss1.png) ![Sample Two](assets/ss2.png)
+
 ## Depedency
+
 Depedencies that are used:
 
 - insert-koin.io - Dependency Injection!
-  ![Sample One](assets/ss1.png) ![Sample Two](assets/ss2.png)
+
 ### Installation
 
 1. Clone the repo
@@ -14,5 +18,6 @@ Depedencies that are used:
    ```
 
 ## Thank You
+
 **don't forget the star ✨**
 
